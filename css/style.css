@@ -1,0 +1,11 @@
+#paragraph-1{
+    color: red;
+}
+
+#paragraph-2{
+    color: green;
+}
+
+#paragraph-1, #paragraph-2{
+    background-color: black;
+}
